@@ -63,6 +63,13 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - images/danh00.jpg
+  fonts:
+    - family: Comfortaa
+      fonts:
+        - asset: fonts/Comfortaa-VariableFont_wght.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
